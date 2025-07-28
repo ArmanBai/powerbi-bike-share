@@ -42,7 +42,6 @@
 ## 🗂 Структура проекта
 
 powerbi-bike-share/
-├── miniproekt3-64-potok.armanb.pbix
 ├── README.md
 └── screenshots/
 ├── homepage.png
