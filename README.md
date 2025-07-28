@@ -53,4 +53,4 @@ powerbi-bike-share/
 
 ## 👤 Автор
 **Arman Bai**  
-BI-аналитик | [LinkedIn →](https://www.linkedin.com/in/arman-baigudtinov-23a08a93)
+BI-аналитик 
